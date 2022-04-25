@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAnimations</string>
+    <string name="flip">Flip</string>
+    <string name="card_flip">card Flip</string>
+    <string name="fab_button">fab button</string>
+    <string name="upward_button">Upward button</string>
+</resources>
